@@ -168,7 +168,7 @@ if page == "Generate Certificate":
                     (" conducted by ", ("Helvetica", 12)),
                     ("STEP DTU", ("Helvetica-Bold", 12)),
                     (" during the academic year ", ("Helvetica", 12)),
-                    ("2024-2025", ("Helvetica-Bold", 12)),
+                    ("2023-2024", ("Helvetica-Bold", 12)),
                     (".", ("Helvetica", 12))
                 ]
 
